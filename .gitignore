@@ -1,0 +1,6 @@
+#intellij
+*.idea
+out/
+
+#gradle
+*.gradle
